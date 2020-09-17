@@ -1,4 +1,4 @@
-package henrique.exc3
+package br.com.digitalhouse.collections.exc3
 
 class Prova (val conjuntoDeInteiros: Set<Int>) {
 

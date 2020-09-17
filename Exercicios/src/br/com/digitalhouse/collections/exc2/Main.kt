@@ -1,4 +1,4 @@
-package henrique.exc2
+package br.com.digitalhouse.collections.exc2
 
 fun main() {
     val exc2 = Exercicio02()

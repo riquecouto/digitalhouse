@@ -1,4 +1,4 @@
-package henrique.exc3
+package br.com.digitalhouse.collections.exc3
 
 fun main() {
     val conjunto = setOf(1, 1, 2, 4, 8, 16)
